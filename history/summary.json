@@ -304,7 +304,7 @@
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-04-12": 1060
+      "2026-04-12": 1102
     }
   },
   {
@@ -384,12 +384,12 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "up",
-    "uptime": "21.08%",
-    "uptimeDay": "21.08%",
-    "uptimeWeek": "21.08%",
-    "uptimeMonth": "21.08%",
-    "uptimeYear": "21.08%",
+    "status": "down",
+    "uptime": "26.76%",
+    "uptimeDay": "26.76%",
+    "uptimeWeek": "26.76%",
+    "uptimeMonth": "26.76%",
+    "uptimeYear": "26.76%",
     "time": 950,
     "timeDay": 950,
     "timeWeek": 950,
@@ -441,26 +441,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/anchoragelistings.com.ico",
     "slug": "anchorage-listings",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-04-12": 29
-    }
-  },
-  {
-    "name": "Alcan Listings",
-    "url": "https://alcanlistings.com",
-    "icon": "https://icons.duckduckgo.com/ip3/alcanlistings.com.ico",
-    "slug": "alcan-listings",
-    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -472,7 +452,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 29
+      "2026-04-12": 71
+    }
+  },
+  {
+    "name": "Alcan Listings",
+    "url": "https://alcanlistings.com",
+    "icon": "https://icons.duckduckgo.com/ip3/alcanlistings.com.ico",
+    "slug": "alcan-listings",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-12": 71
     }
   },
   {
@@ -492,7 +492,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 29
+      "2026-04-12": 71
     }
   },
   {
@@ -548,7 +548,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 29
+      "2026-04-12": 71
     }
   }
 ]
