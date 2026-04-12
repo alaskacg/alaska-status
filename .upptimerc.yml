@@ -1,36 +1,97 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Alaska Portfolio Uptime Monitor
+owner: alaskacg
+repo: alaska-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # === TOP SaaS SITES (payment-enabled, CRITICAL) ===
+  - name: Alaska Metals Exchange
+    url: https://alaskametalsexchange.com
+    icon: https://alaskametalsexchange.com/favicon.ico
+
+  - name: Alaska Guide Search
+    url: https://akguidesearch.com
+    icon: https://akguidesearch.com/favicon.ico
+
+  - name: Juneau Air
+    url: https://juneauair.com
+    icon: https://juneauair.com/favicon.ico
+
+  - name: Alaska Listings
+    url: https://aklistings.com
+    icon: https://aklistings.com/favicon.ico
+
+  - name: Alaskas Store
+    url: https://alaskasstore.com
+
+  # === KENAI PACKAGE ===
+  - name: Kenai Borough
+    url: https://kenaiborough.com
+
+  - name: Kenai Listings
+    url: https://kenailistings.com
+
+  - name: Kenai Auto Sales
+    url: https://kenaiautosales.com
+
+  - name: Kenai Peninsula Rentals
+    url: https://kenaipeninsularentals.com
+
+  - name: Kenai Land Sales
+    url: https://kenailandsales.com
+
+  # === CORE BUSINESS ===
+  - name: Alaska Consulting Group
+    url: https://alaskaconsultinggroup.com
+
+  - name: The Alaska Foundation
+    url: https://thealaskafoundation.com
+
+  - name: Alaska Domains
+    url: https://alaskadomains.com
+
+  - name: Alaska Drone Survey
+    url: https://alaskadronesurvey.com
+
+  - name: Alaska Mining Equipment
+    url: https://alaskaminingequipment.com
+
+  # === NEWS & MEDIA ===
+  - name: Alaska News Corporation
+    url: https://alaskanewscorporation.com
+
+  - name: Alaska Gold News
+    url: https://alaskagoldnews.com
+
+  - name: Alaska Fires
+    url: https://alaskafires.com
+
+  - name: Kenai News
+    url: https://kenainews.com
+
+  - name: Anchorage Chronicle
+    url: https://anchoragechronicle.com
+
+  # === LISTINGS ===
+  - name: Alaskan Boats
+    url: https://alaskanboats.com
+
+  - name: Alaska Guide Listings
+    url: https://alaskaguidelistings.com
+
+assignees:
+  - alaskacg
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.alaskaconsultinggroup.com
+  name: Alaska Portfolio Status
+  introTitle: Alaska Business Network — System Status
+  introMessage: Real-time uptime monitoring for all Alaska portfolio sites. Powered by GitHub Actions.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/alaskacg/alaska-status
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+notifications:
+  - provider: github
+    token: $GH_PAT
