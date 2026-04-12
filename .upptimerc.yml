@@ -39,6 +39,12 @@ sites:
   - name: Kenai Land Sales
     url: https://kenailandsales.com
 
+  - name: Kenai Home Sales
+    url: https://kenaihomesales.com
+
+  - name: Kenai Borough Realty
+    url: https://kenaiboroughrealty.com
+
   # === CORE BUSINESS ===
   - name: Alaska Consulting Group
     url: https://alaskaconsultinggroup.com
@@ -71,12 +77,30 @@ sites:
   - name: Anchorage Chronicle
     url: https://anchoragechronicle.com
 
-  # === LISTINGS ===
+  # === LISTINGS NETWORK ===
   - name: Alaskan Boats
     url: https://alaskanboats.com
 
   - name: Alaska Guide Listings
     url: https://alaskaguidelistings.com
+
+  - name: Anchorage Listings
+    url: https://anchoragelistings.com
+
+  - name: Alcan Listings
+    url: https://alcanlistings.com
+
+  - name: Prudhoe Listings
+    url: https://prudhoelistings.com
+
+  - name: Tongass Listings
+    url: https://tongasslistings.com
+
+  - name: Chugach Listings
+    url: https://chugachlistings.com
+
+  - name: BB Listings
+    url: https://bblistings.com
 
 assignees:
   - alaskacg
