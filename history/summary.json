@@ -292,12 +292,12 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "up",
-    "uptime": "2.52%",
-    "uptimeDay": "30.81%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "2.52%",
+    "status": "down",
+    "uptime": "4.52%",
+    "uptimeDay": "35.32%",
+    "uptimeWeek": "4.52%",
+    "uptimeMonth": "4.52%",
+    "uptimeYear": "4.52%",
     "time": 770,
     "timeDay": 852,
     "timeWeek": 770,
@@ -387,18 +387,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
     "status": "down",
-    "uptime": "17.00%",
+    "uptime": "16.65%",
     "uptimeDay": "22.55%",
-    "uptimeWeek": "17.00%",
-    "uptimeMonth": "17.00%",
-    "uptimeYear": "17.00%",
+    "uptimeWeek": "16.65%",
+    "uptimeMonth": "16.65%",
+    "uptimeYear": "16.65%",
     "time": 857,
     "timeDay": 813,
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2026-04-14": 670,
+      "2026-04-14": 735,
       "2026-04-13": 1387,
       "2026-04-12": 515
     }
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 942,
+      "2026-04-14": 1007,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
@@ -478,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 942,
+      "2026-04-14": 1007,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
@@ -500,7 +500,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 942,
+      "2026-04-14": 1007,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
@@ -558,7 +558,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 942,
+      "2026-04-14": 1007,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
