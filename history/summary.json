@@ -292,19 +292,19 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "down",
-    "uptime": "6.57%",
-    "uptimeDay": "40.45%",
-    "uptimeWeek": "6.57%",
-    "uptimeMonth": "6.57%",
-    "uptimeYear": "6.57%",
-    "time": 760,
-    "timeDay": 822,
-    "timeWeek": 760,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "6.45%",
+    "uptimeDay": "40.47%",
+    "uptimeWeek": "6.45%",
+    "uptimeMonth": "6.45%",
+    "uptimeYear": "6.45%",
+    "time": 800,
+    "timeDay": 865,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {
-      "2026-04-14": 618,
+      "2026-04-14": 684,
       "2026-04-13": 1236,
       "2026-04-12": 1233
     }
@@ -386,12 +386,12 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "up",
-    "uptime": "15.94%",
-    "uptimeDay": "22.57%",
-    "uptimeWeek": "15.94%",
-    "uptimeMonth": "15.94%",
-    "uptimeYear": "15.94%",
+    "status": "down",
+    "uptime": "17.58%",
+    "uptimeDay": "27.12%",
+    "uptimeWeek": "17.58%",
+    "uptimeMonth": "17.58%",
+    "uptimeYear": "17.58%",
     "time": 869,
     "timeDay": 847,
     "timeWeek": 869,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1149,
+      "2026-04-14": 1215,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
@@ -478,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1149,
+      "2026-04-14": 1215,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
@@ -500,7 +500,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1149,
+      "2026-04-14": 1215,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
@@ -558,7 +558,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1149,
+      "2026-04-14": 1215,
       "2026-04-13": 1440,
       "2026-04-12": 202
     }
