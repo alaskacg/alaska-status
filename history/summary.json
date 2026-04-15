@@ -293,18 +293,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
     "status": "down",
-    "uptime": "13.32%",
-    "uptimeDay": "33.26%",
-    "uptimeWeek": "13.32%",
-    "uptimeMonth": "13.32%",
-    "uptimeYear": "13.32%",
+    "uptime": "13.13%",
+    "uptimeDay": "28.62%",
+    "uptimeWeek": "13.13%",
+    "uptimeMonth": "13.13%",
+    "uptimeYear": "13.13%",
     "time": 857,
-    "timeDay": 963,
+    "timeDay": 1028,
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2026-04-15": 723,
+      "2026-04-15": 792,
       "2026-04-14": 854,
       "2026-04-13": 1236,
       "2026-04-12": 1233
@@ -387,12 +387,12 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "up",
-    "uptime": "16.50%",
-    "uptimeDay": "16.93%",
-    "uptimeWeek": "16.50%",
-    "uptimeMonth": "16.50%",
-    "uptimeYear": "16.50%",
+    "status": "down",
+    "uptime": "17.70%",
+    "uptimeDay": "21.67%",
+    "uptimeWeek": "17.70%",
+    "uptimeMonth": "17.70%",
+    "uptimeYear": "17.70%",
     "time": 839,
     "timeDay": 793,
     "timeWeek": 839,
@@ -458,7 +458,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 1073,
+      "2026-04-15": 1142,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 1073,
+      "2026-04-15": 1142,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
@@ -504,7 +504,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 1073,
+      "2026-04-15": 1142,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
@@ -563,7 +563,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 1073,
+      "2026-04-15": 1142,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
