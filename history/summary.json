@@ -293,18 +293,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
     "status": "down",
-    "uptime": "12.45%",
-    "uptimeDay": "33.13%",
-    "uptimeWeek": "12.45%",
-    "uptimeMonth": "12.45%",
-    "uptimeYear": "12.45%",
+    "uptime": "12.22%",
+    "uptimeDay": "32.90%",
+    "uptimeWeek": "12.22%",
+    "uptimeMonth": "12.22%",
+    "uptimeYear": "12.22%",
     "time": 818,
-    "timeDay": 853,
+    "timeDay": 891,
     "timeWeek": 818,
     "timeMonth": 818,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2026-04-15": 580,
+      "2026-04-15": 663,
       "2026-04-14": 854,
       "2026-04-13": 1236,
       "2026-04-12": 1233
@@ -387,12 +387,12 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "up",
-    "uptime": "15.42%",
-    "uptimeDay": "16.70%",
-    "uptimeWeek": "15.42%",
-    "uptimeMonth": "15.42%",
-    "uptimeYear": "15.42%",
+    "status": "down",
+    "uptime": "16.96%",
+    "uptimeDay": "16.91%",
+    "uptimeWeek": "16.96%",
+    "uptimeMonth": "16.96%",
+    "uptimeYear": "16.96%",
     "time": 841,
     "timeDay": 788,
     "timeWeek": 841,
@@ -458,7 +458,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 862,
+      "2026-04-15": 945,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 862,
+      "2026-04-15": 945,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
@@ -504,7 +504,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 862,
+      "2026-04-15": 945,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
@@ -563,7 +563,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 862,
+      "2026-04-15": 945,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 202
