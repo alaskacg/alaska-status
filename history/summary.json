@@ -13,7 +13,7 @@
     "time": 164,
     "timeDay": 137,
     "timeWeek": 134,
-    "timeMonth": 164,
+    "timeMonth": 159,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 150,
     "timeDay": 143,
     "timeWeek": 117,
-    "timeMonth": 150,
+    "timeMonth": 147,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 154,
     "timeDay": 139,
     "timeWeek": 152,
-    "timeMonth": 154,
+    "timeMonth": 152,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 155,
     "timeDay": 165,
     "timeWeek": 129,
-    "timeMonth": 155,
+    "timeMonth": 152,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 155,
     "timeDay": 134,
     "timeWeek": 143,
-    "timeMonth": 155,
+    "timeMonth": 154,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 164,
     "timeDay": 127,
     "timeWeek": 147,
-    "timeMonth": 164,
+    "timeMonth": 162,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 162,
     "timeDay": 141,
     "timeWeek": 133,
-    "timeMonth": 162,
+    "timeMonth": 161,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 163,
     "timeDay": 164,
     "timeWeek": 148,
-    "timeMonth": 163,
+    "timeMonth": 160,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 159,
     "timeDay": 178,
     "timeWeek": 143,
-    "timeMonth": 159,
+    "timeMonth": 156,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 159,
     "timeDay": 140,
     "timeWeek": 151,
-    "timeMonth": 159,
+    "timeMonth": 157,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 140,
     "timeDay": 135,
     "timeWeek": 114,
-    "timeMonth": 140,
+    "timeMonth": 137,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 153,
     "timeDay": 132,
     "timeWeek": 136,
-    "timeMonth": 153,
+    "timeMonth": 150,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 151,
     "timeDay": 137,
     "timeWeek": 117,
-    "timeMonth": 151,
+    "timeMonth": 150,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 141,
     "timeDay": 147,
     "timeWeek": 138,
-    "timeMonth": 141,
+    "timeMonth": 139,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -292,19 +292,19 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "down",
-    "uptime": "51.31%",
-    "uptimeDay": "70.45%",
-    "uptimeWeek": "53.90%",
-    "uptimeMonth": "51.31%",
-    "uptimeYear": "51.31%",
-    "time": 760,
-    "timeDay": 777,
-    "timeWeek": 737,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "51.18%",
+    "uptimeDay": "68.19%",
+    "uptimeWeek": "53.82%",
+    "uptimeMonth": "51.18%",
+    "uptimeYear": "51.18%",
+    "time": 759,
+    "timeDay": 737,
+    "timeWeek": 734,
+    "timeMonth": 759,
+    "timeYear": 759,
     "dailyMinutesDown": {
-      "2026-05-12": 287,
+      "2026-05-12": 397,
       "2026-05-11": 446,
       "2026-05-10": 819,
       "2026-05-09": 537,
@@ -343,7 +343,7 @@
     "time": 157,
     "timeDay": 222,
     "timeWeek": 150,
-    "timeMonth": 157,
+    "timeMonth": 155,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -361,7 +361,7 @@
     "time": 152,
     "timeDay": 146,
     "timeWeek": 139,
-    "timeMonth": 152,
+    "timeMonth": 149,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -379,7 +379,7 @@
     "time": 163,
     "timeDay": 126,
     "timeWeek": 164,
-    "timeMonth": 163,
+    "timeMonth": 161,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -397,7 +397,7 @@
     "time": 145,
     "timeDay": 142,
     "timeWeek": 144,
-    "timeMonth": 145,
+    "timeMonth": 142,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -406,19 +406,19 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "up",
-    "uptime": "21.19%",
-    "uptimeDay": "35.22%",
-    "uptimeWeek": "41.81%",
-    "uptimeMonth": "21.19%",
-    "uptimeYear": "21.19%",
+    "status": "down",
+    "uptime": "22.12%",
+    "uptimeDay": "42.84%",
+    "uptimeWeek": "42.90%",
+    "uptimeMonth": "22.12%",
+    "uptimeYear": "22.12%",
     "time": 750,
     "timeDay": 752,
     "timeWeek": 700,
-    "timeMonth": 750,
+    "timeMonth": 749,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2026-05-12": 530,
+      "2026-05-12": 531,
       "2026-05-11": 875,
       "2026-05-10": 1087,
       "2026-05-09": 568,
@@ -448,7 +448,7 @@
       "2026-04-15": 1115,
       "2026-04-14": 1102,
       "2026-04-13": 1387,
-      "2026-04-12": 403
+      "2026-04-12": 86
     }
   },
   {
@@ -465,7 +465,7 @@
     "time": 155,
     "timeDay": 131,
     "timeWeek": 136,
-    "timeMonth": 155,
+    "timeMonth": 151,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -483,7 +483,7 @@
     "time": 149,
     "timeDay": 157,
     "timeWeek": 132,
-    "timeMonth": 149,
+    "timeMonth": 147,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -504,7 +504,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-12": 693,
+      "2026-05-12": 804,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -554,7 +554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-12": 693,
+      "2026-05-12": 804,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -604,7 +604,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-12": 693,
+      "2026-05-12": 804,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -690,7 +690,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-12": 693,
+      "2026-05-12": 804,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
