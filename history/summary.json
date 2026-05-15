@@ -294,7 +294,7 @@
     "slug": "alaska-mining-equipment",
     "status": "up",
     "uptime": "62.53%",
-    "uptimeDay": "64.63%",
+    "uptimeDay": "64.67%",
     "uptimeWeek": "57.44%",
     "uptimeMonth": "58.77%",
     "uptimeYear": "62.53%",
@@ -404,19 +404,19 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "up",
-    "uptime": "35.97%",
-    "uptimeDay": "55.38%",
-    "uptimeWeek": "39.63%",
-    "uptimeMonth": "29.55%",
-    "uptimeYear": "35.97%",
+    "status": "down",
+    "uptime": "38.02%",
+    "uptimeDay": "55.31%",
+    "uptimeWeek": "39.65%",
+    "uptimeMonth": "31.80%",
+    "uptimeYear": "38.02%",
     "time": 742,
     "timeDay": 657,
     "timeWeek": 701,
     "timeMonth": 727,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2026-05-15": 610,
+      "2026-05-15": 611,
       "2026-05-14": 1001,
       "2026-05-13": 837,
       "2026-05-12": 1072,
@@ -443,8 +443,7 @@
       "2026-04-21": 1175,
       "2026-04-20": 1377,
       "2026-04-19": 1245,
-      "2026-04-18": 1303,
-      "2026-04-17": 375
+      "2026-04-18": 692
     }
   },
   {
@@ -500,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1403,
+      "2026-05-15": 1407,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -553,7 +552,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1403,
+      "2026-05-15": 1407,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -606,7 +605,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1403,
+      "2026-05-15": 1407,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -695,7 +694,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 1403,
+      "2026-05-15": 1407,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
