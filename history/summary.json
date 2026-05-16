@@ -292,19 +292,19 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "up",
-    "uptime": "63.45%",
-    "uptimeDay": "55.64%",
-    "uptimeWeek": "55.20%",
-    "uptimeMonth": "59.43%",
-    "uptimeYear": "63.45%",
+    "status": "down",
+    "uptime": "63.85%",
+    "uptimeDay": "59.14%",
+    "uptimeWeek": "55.70%",
+    "uptimeMonth": "59.82%",
+    "uptimeYear": "63.85%",
     "time": 746,
     "timeDay": 684,
     "timeWeek": 697,
     "timeMonth": 739,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2026-05-16": 259,
+      "2026-05-16": 261,
       "2026-05-15": 487,
       "2026-05-14": 806,
       "2026-05-13": 603,
@@ -325,7 +325,7 @@
       "2026-04-28": 949,
       "2026-04-27": 1355,
       "2026-04-26": 965,
-      "2026-04-25": 365
+      "2026-04-25": 189
     }
   },
   {
@@ -405,19 +405,19 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "up",
-    "uptime": "39.15%",
-    "uptimeDay": "52.36%",
-    "uptimeWeek": "39.89%",
-    "uptimeMonth": "32.45%",
-    "uptimeYear": "39.15%",
+    "status": "down",
+    "uptime": "39.69%",
+    "uptimeDay": "55.88%",
+    "uptimeWeek": "40.39%",
+    "uptimeMonth": "32.97%",
+    "uptimeYear": "39.69%",
     "time": 740,
     "timeDay": 624,
     "timeWeek": 690,
     "timeMonth": 724,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2026-05-16": 142,
+      "2026-05-16": 143,
       "2026-05-15": 645,
       "2026-05-14": 1001,
       "2026-05-13": 837,
@@ -444,8 +444,7 @@
       "2026-04-22": 1192,
       "2026-04-21": 1175,
       "2026-04-20": 1377,
-      "2026-04-19": 1245,
-      "2026-04-18": 231
+      "2026-04-19": 1245
     }
   },
   {
@@ -501,7 +500,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 391,
+      "2026-05-16": 443,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -555,7 +554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 391,
+      "2026-05-16": 443,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -609,7 +608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 391,
+      "2026-05-16": 443,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -699,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 391,
+      "2026-05-16": 443,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
