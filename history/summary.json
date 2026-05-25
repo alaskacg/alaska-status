@@ -400,11 +400,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
     "status": "down",
-    "uptime": "81.05%",
+    "uptime": "81.04%",
     "uptimeDay": "43.06%",
-    "uptimeWeek": "48.08%",
-    "uptimeMonth": "73.52%",
-    "uptimeYear": "81.05%",
+    "uptimeWeek": "47.98%",
+    "uptimeMonth": "73.50%",
+    "uptimeYear": "81.04%",
     "time": 729,
     "timeDay": 732,
     "timeWeek": 712,
@@ -426,7 +426,7 @@
       "2026-05-22": 707,
       "2026-05-23": 930,
       "2026-05-24": 821,
-      "2026-05-25": 21
+      "2026-05-25": 32
     }
   },
   {
@@ -482,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 21,
+      "2026-05-25": 32,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -545,7 +545,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 21,
+      "2026-05-25": 32,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -608,7 +608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 21,
+      "2026-05-25": 32,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -696,11 +696,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bblistings.com.ico",
     "slug": "bb-listings",
     "status": "up",
-    "uptime": "13.93%",
+    "uptime": "13.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.86%",
-    "uptimeMonth": "20.68%",
-    "uptimeYear": "13.93%",
+    "uptimeWeek": "83.97%",
+    "uptimeMonth": "20.70%",
+    "uptimeYear": "13.94%",
     "time": 221,
     "timeDay": 122,
     "timeWeek": 221,
