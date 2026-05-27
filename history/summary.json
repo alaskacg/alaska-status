@@ -293,11 +293,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
     "status": "down",
-    "uptime": "86.69%",
-    "uptimeDay": "64.36%",
-    "uptimeWeek": "57.57%",
-    "uptimeMonth": "80.53%",
-    "uptimeYear": "86.69%",
+    "uptime": "86.65%",
+    "uptimeDay": "62.22%",
+    "uptimeWeek": "57.27%",
+    "uptimeMonth": "80.46%",
+    "uptimeYear": "86.65%",
     "time": 721,
     "timeDay": 654,
     "timeWeek": 683,
@@ -318,7 +318,7 @@
       "2026-05-24": 775,
       "2026-05-25": 396,
       "2026-05-26": 512,
-      "2026-05-27": 1
+      "2026-05-27": 32
     }
   },
   {
@@ -399,11 +399,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
     "status": "down",
-    "uptime": "86.02%",
+    "uptime": "85.98%",
     "uptimeDay": "55.80%",
     "uptimeWeek": "49.89%",
-    "uptimeMonth": "79.55%",
-    "uptimeYear": "86.02%",
+    "uptimeMonth": "79.48%",
+    "uptimeYear": "85.98%",
     "time": 726,
     "timeDay": 679,
     "timeWeek": 719,
@@ -423,7 +423,7 @@
       "2026-05-24": 821,
       "2026-05-25": 643,
       "2026-05-26": 636,
-      "2026-05-27": 1
+      "2026-05-27": 32
     }
   },
   {
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-27": 2,
+      "2026-05-27": 33,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-27": 2,
+      "2026-05-27": 33,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -609,7 +609,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-27": 2,
+      "2026-05-27": 33,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -699,11 +699,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bblistings.com.ico",
     "slug": "bb-listings",
     "status": "up",
-    "uptime": "17.80%",
+    "uptime": "17.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "27.21%",
-    "uptimeYear": "17.80%",
+    "uptimeMonth": "27.28%",
+    "uptimeYear": "17.84%",
     "time": 219,
     "timeDay": 324,
     "timeWeek": 239,
