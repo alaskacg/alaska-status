@@ -31,7 +31,7 @@
     "time": 147,
     "timeDay": 126,
     "timeWeek": 132,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 150,
     "timeDay": 131,
     "timeWeek": 129,
-    "timeMonth": 146,
+    "timeMonth": 139,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 148,
     "timeDay": 134,
     "timeWeek": 124,
-    "timeMonth": 140,
+    "timeMonth": 139,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 155,
     "timeDay": 299,
     "timeWeek": 153,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 155,
     "timeDay": 134,
     "timeWeek": 142,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 148,
     "timeDay": 160,
     "timeWeek": 136,
-    "timeMonth": 135,
+    "timeMonth": 134,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 151,
     "timeDay": 156,
     "timeWeek": 137,
-    "timeMonth": 143,
+    "timeMonth": 141,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 142,
     "timeDay": 138,
     "timeWeek": 139,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 144,
     "timeDay": 148,
     "timeWeek": 121,
-    "timeMonth": 132,
+    "timeMonth": 128,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 144,
     "timeDay": 143,
     "timeWeek": 111,
-    "timeMonth": 131,
+    "timeMonth": 130,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -292,17 +292,17 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "down",
-    "uptime": "87.34%",
-    "uptimeDay": "37.07%",
-    "uptimeWeek": "55.79%",
-    "uptimeMonth": "77.32%",
-    "uptimeYear": "87.34%",
-    "time": 728,
-    "timeDay": 669,
-    "timeWeek": 646,
-    "timeMonth": 707,
-    "timeYear": 728,
+    "status": "up",
+    "uptime": "87.31%",
+    "uptimeDay": "35.26%",
+    "uptimeWeek": "55.53%",
+    "uptimeMonth": "77.26%",
+    "uptimeYear": "87.31%",
+    "time": 729,
+    "timeDay": 707,
+    "timeWeek": 652,
+    "timeMonth": 708,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2026-05-21": 852,
       "2026-05-22": 404,
@@ -319,7 +319,8 @@
       "2026-06-02": 424,
       "2026-06-03": 488,
       "2026-06-04": 590,
-      "2026-06-05": 907
+      "2026-06-05": 931,
+      "2026-06-06": 2
     }
   },
   {
@@ -336,7 +337,7 @@
     "time": 149,
     "timeDay": 190,
     "timeWeek": 140,
-    "timeMonth": 141,
+    "timeMonth": 140,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -372,7 +373,7 @@
     "time": 155,
     "timeDay": 162,
     "timeWeek": 161,
-    "timeMonth": 148,
+    "timeMonth": 147,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -390,7 +391,7 @@
     "time": 146,
     "timeDay": 257,
     "timeWeek": 161,
-    "timeMonth": 146,
+    "timeMonth": 145,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -400,18 +401,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
     "status": "up",
-    "uptime": "86.38%",
-    "uptimeDay": "47.58%",
-    "uptimeWeek": "44.99%",
-    "uptimeMonth": "75.61%",
-    "uptimeYear": "86.38%",
+    "uptime": "86.20%",
+    "uptimeDay": "48.98%",
+    "uptimeWeek": "45.23%",
+    "uptimeMonth": "75.28%",
+    "uptimeYear": "86.20%",
     "time": 762,
-    "timeDay": 855,
+    "timeDay": 891,
     "timeWeek": 933,
     "timeMonth": 761,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2026-05-23": 856,
+      "2026-05-23": 930,
+      "2026-05-22": 77,
       "2026-05-24": 821,
       "2026-05-25": 643,
       "2026-05-26": 636,
@@ -424,7 +426,7 @@
       "2026-06-02": 952,
       "2026-06-03": 898,
       "2026-06-04": 697,
-      "2026-06-05": 741
+      "2026-06-05": 735
     }
   },
   {
@@ -441,7 +443,7 @@
     "time": 150,
     "timeDay": 359,
     "timeWeek": 156,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -459,7 +461,7 @@
     "time": 149,
     "timeDay": 138,
     "timeWeek": 131,
-    "timeMonth": 146,
+    "timeMonth": 145,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -480,7 +482,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 1416,
+      "2026-06-06": 3,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -554,7 +557,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 1416,
+      "2026-06-06": 3,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -628,7 +632,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 1416,
+      "2026-06-06": 3,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -699,7 +704,7 @@
     "time": 148,
     "timeDay": 155,
     "timeWeek": 137,
-    "timeMonth": 144,
+    "timeMonth": 143,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -727,11 +732,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bblistings.com.ico",
     "slug": "bb-listings",
     "status": "up",
-    "uptime": "32.96%",
+    "uptime": "32.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.74%",
-    "uptimeYear": "32.96%",
+    "uptimeMonth": "56.80%",
+    "uptimeYear": "32.98%",
     "time": 293,
     "timeDay": 309,
     "timeWeek": 372,
