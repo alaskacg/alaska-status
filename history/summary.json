@@ -13,7 +13,7 @@
     "time": 160,
     "timeDay": 60,
     "timeWeek": 142,
-    "timeMonth": 150,
+    "timeMonth": 151,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 146,
     "timeDay": 71,
     "timeWeek": 108,
-    "timeMonth": 135,
+    "timeMonth": 137,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 149,
     "timeDay": 73,
     "timeWeek": 110,
-    "timeMonth": 137,
+    "timeMonth": 140,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 150,
     "timeDay": 37,
     "timeWeek": 129,
-    "timeMonth": 141,
+    "timeMonth": 143,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 147,
     "timeDay": 112,
     "timeWeek": 113,
-    "timeMonth": 138,
+    "timeMonth": 139,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 154,
     "timeDay": 119,
     "timeWeek": 146,
-    "timeMonth": 141,
+    "timeMonth": 142,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 153,
     "timeDay": 57,
     "timeWeek": 122,
-    "timeMonth": 141,
+    "timeMonth": 142,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 147,
     "timeDay": 126,
     "timeWeek": 122,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 151,
     "timeDay": 140,
     "timeWeek": 128,
-    "timeMonth": 141,
+    "timeMonth": 142,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 149,
     "timeDay": 61,
     "timeWeek": 129,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 151,
     "timeDay": 108,
     "timeWeek": 131,
-    "timeMonth": 145,
+    "timeMonth": 148,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 141,
     "timeDay": 75,
     "timeWeek": 120,
-    "timeMonth": 136,
+    "timeMonth": 140,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 142,
     "timeDay": 37,
     "timeWeek": 98,
-    "timeMonth": 125,
+    "timeMonth": 128,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 144,
     "timeDay": 116,
     "timeWeek": 109,
-    "timeMonth": 129,
+    "timeMonth": 130,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -292,17 +292,17 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "down",
-    "uptime": "88.16%",
-    "uptimeDay": "53.36%",
-    "uptimeWeek": "57.05%",
-    "uptimeMonth": "78.41%",
-    "uptimeYear": "88.16%",
-    "time": 729,
-    "timeDay": 770,
-    "timeWeek": 662,
-    "timeMonth": 708,
-    "timeYear": 729,
+    "status": "up",
+    "uptime": "88.14%",
+    "uptimeDay": "53.45%",
+    "uptimeWeek": "57.06%",
+    "uptimeMonth": "78.35%",
+    "uptimeYear": "88.14%",
+    "time": 731,
+    "timeDay": 841,
+    "timeWeek": 682,
+    "timeMonth": 712,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2026-05-22": 109,
       "2026-05-23": 751,
@@ -319,7 +319,8 @@
       "2026-06-03": 488,
       "2026-06-04": 590,
       "2026-06-05": 931,
-      "2026-06-06": 646
+      "2026-06-06": 670,
+      "2026-06-07": 1
     }
   },
   {
@@ -336,7 +337,7 @@
     "time": 147,
     "timeDay": 34,
     "timeWeek": 118,
-    "timeMonth": 137,
+    "timeMonth": 139,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -354,7 +355,7 @@
     "time": 148,
     "timeDay": 124,
     "timeWeek": 141,
-    "timeMonth": 141,
+    "timeMonth": 144,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -390,7 +391,7 @@
     "time": 145,
     "timeDay": 119,
     "timeWeek": 149,
-    "timeMonth": 144,
+    "timeMonth": 147,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -399,17 +400,17 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "down",
-    "uptime": "86.86%",
-    "uptimeDay": "56.58%",
-    "uptimeWeek": "46.89%",
-    "uptimeMonth": "76.04%",
-    "uptimeYear": "86.86%",
-    "time": 762,
-    "timeDay": 773,
-    "timeWeek": 915,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "status": "up",
+    "uptime": "86.83%",
+    "uptimeDay": "54.81%",
+    "uptimeWeek": "46.83%",
+    "uptimeMonth": "75.98%",
+    "uptimeYear": "86.83%",
+    "time": 765,
+    "timeDay": 837,
+    "timeWeek": 926,
+    "timeMonth": 766,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2026-05-23": 50,
       "2026-05-24": 821,
@@ -425,7 +426,8 @@
       "2026-06-03": 898,
       "2026-06-04": 697,
       "2026-06-05": 735,
-      "2026-06-06": 625
+      "2026-06-06": 650,
+      "2026-06-07": 1
     }
   },
   {
@@ -442,7 +444,7 @@
     "time": 149,
     "timeDay": 62,
     "timeWeek": 134,
-    "timeMonth": 139,
+    "timeMonth": 142,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -481,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1416,
+      "2026-06-07": 2,
+      "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -556,7 +559,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1416,
+      "2026-06-07": 2,
+      "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -631,7 +635,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 1416,
+      "2026-06-07": 2,
+      "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -721,7 +726,7 @@
     "time": 146,
     "timeDay": 126,
     "timeWeek": 145,
-    "timeMonth": 152,
+    "timeMonth": 154,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -731,11 +736,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bblistings.com.ico",
     "slug": "bb-listings",
     "status": "up",
-    "uptime": "34.18%",
+    "uptime": "34.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.02%",
-    "uptimeYear": "34.18%",
+    "uptimeMonth": "60.08%",
+    "uptimeYear": "34.20%",
     "time": 283,
     "timeDay": 106,
     "timeWeek": 358,
