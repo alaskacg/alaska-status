@@ -292,20 +292,19 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "up",
-    "uptime": "84.34%",
-    "uptimeDay": "55.48%",
-    "uptimeWeek": "57.10%",
-    "uptimeMonth": "61.22%",
-    "uptimeYear": "84.34%",
+    "status": "down",
+    "uptime": "84.38%",
+    "uptimeDay": "57.91%",
+    "uptimeWeek": "57.21%",
+    "uptimeMonth": "61.30%",
+    "uptimeYear": "84.38%",
     "time": 737,
     "timeDay": 637,
     "timeWeek": 762,
     "timeMonth": 762,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2026-06-06": 670,
-      "2026-06-05": 31,
+      "2026-06-06": 668,
       "2026-06-07": 692,
       "2026-06-08": 691,
       "2026-06-09": 714,
@@ -325,7 +324,7 @@
       "2026-06-23": 736,
       "2026-06-24": 638,
       "2026-06-25": 639,
-      "2026-06-26": 531
+      "2026-06-26": 532
     }
   },
   {
@@ -406,14 +405,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
     "status": "down",
-    "uptime": "88.40%",
-    "uptimeDay": "46.36%",
-    "uptimeWeek": "47.62%",
-    "uptimeMonth": "71.27%",
-    "uptimeYear": "88.40%",
+    "uptime": "88.37%",
+    "uptimeDay": "43.86%",
+    "uptimeWeek": "47.50%",
+    "uptimeMonth": "71.19%",
+    "uptimeYear": "88.37%",
     "time": 781,
     "timeDay": 703,
-    "timeWeek": 835,
+    "timeWeek": 834,
     "timeMonth": 838,
     "timeYear": 781,
     "dailyMinutesDown": {
@@ -433,7 +432,7 @@
       "2026-06-23": 867,
       "2026-06-24": 681,
       "2026-06-25": 887,
-      "2026-06-26": 664
+      "2026-06-26": 700
     }
   },
   {
@@ -489,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 1195,
+      "2026-06-26": 1231,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -584,7 +583,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 1195,
+      "2026-06-26": 1231,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -679,7 +678,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 1195,
+      "2026-06-26": 1231,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -799,11 +798,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bblistings.com.ico",
     "slug": "bb-listings",
     "status": "up",
-    "uptime": "51.60%",
+    "uptime": "51.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.60%",
+    "uptimeYear": "51.62%",
     "time": 272,
     "timeDay": 265,
     "timeWeek": 305,
