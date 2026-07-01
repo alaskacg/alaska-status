@@ -398,15 +398,15 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "down",
-    "uptime": "89.73%",
-    "uptimeDay": "52.90%",
-    "uptimeWeek": "44.05%",
-    "uptimeMonth": "73.00%",
-    "uptimeYear": "89.73%",
+    "status": "up",
+    "uptime": "89.68%",
+    "uptimeDay": "52.98%",
+    "uptimeWeek": "44.06%",
+    "uptimeMonth": "72.85%",
+    "uptimeYear": "89.68%",
     "time": 776,
-    "timeDay": 738,
-    "timeWeek": 733,
+    "timeDay": 751,
+    "timeWeek": 735,
     "timeMonth": 821,
     "timeYear": 776,
     "dailyMinutesDown": {
@@ -425,7 +425,7 @@
       "2026-06-28": 938,
       "2026-06-29": 982,
       "2026-06-30": 685,
-      "2026-07-01": 219
+      "2026-07-01": 283
     }
   },
   {
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 653,
+      "2026-07-01": 718,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 653,
+      "2026-07-01": 718,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -681,7 +681,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 653,
+      "2026-07-01": 718,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -806,11 +806,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bblistings.com.ico",
     "slug": "bb-listings",
     "status": "up",
-    "uptime": "54.41%",
+    "uptime": "54.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.41%",
+    "uptimeYear": "54.44%",
     "time": 270,
     "timeDay": 107,
     "timeWeek": 234,
