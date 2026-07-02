@@ -397,14 +397,14 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "down",
+    "status": "up",
     "uptime": "90.88%",
-    "uptimeDay": "69.13%",
-    "uptimeWeek": "49.64%",
-    "uptimeMonth": "75.57%",
+    "uptimeDay": "69.20%",
+    "uptimeWeek": "49.62%",
+    "uptimeMonth": "75.56%",
     "uptimeYear": "90.88%",
     "time": 775,
-    "timeDay": 683,
+    "timeDay": 688,
     "timeWeek": 721,
     "timeMonth": 817,
     "timeYear": 775,
@@ -423,7 +423,7 @@
       "2026-06-29": 982,
       "2026-06-30": 685,
       "2026-07-01": 593,
-      "2026-07-02": 412
+      "2026-07-02": 414
     }
   },
   {
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1407,
+      "2026-07-02": 1410,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -580,7 +580,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1407,
+      "2026-07-02": 1410,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -681,7 +681,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1407,
+      "2026-07-02": 1410,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
