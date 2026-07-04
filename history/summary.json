@@ -294,8 +294,8 @@
     "slug": "alaska-mining-equipment",
     "status": "up",
     "uptime": "93.69%",
-    "uptimeDay": "52.19%",
-    "uptimeWeek": "62.83%",
+    "uptimeDay": "52.84%",
+    "uptimeWeek": "63.07%",
     "uptimeMonth": "82.70%",
     "uptimeYear": "93.69%",
     "time": 732,
@@ -397,16 +397,16 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "down",
-    "uptime": "91.35%",
-    "uptimeDay": "52.06%",
-    "uptimeWeek": "48.10%",
-    "uptimeMonth": "76.30%",
-    "uptimeYear": "91.35%",
+    "status": "up",
+    "uptime": "91.34%",
+    "uptimeDay": "52.13%",
+    "uptimeWeek": "47.87%",
+    "uptimeMonth": "76.25%",
+    "uptimeYear": "91.34%",
     "time": 776,
-    "timeDay": 768,
-    "timeWeek": 759,
-    "timeMonth": 799,
+    "timeDay": 749,
+    "timeWeek": 758,
+    "timeMonth": 798,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2026-06-20": 62,
@@ -423,7 +423,7 @@
       "2026-07-01": 593,
       "2026-07-02": 416,
       "2026-07-03": 939,
-      "2026-07-04": 600
+      "2026-07-04": 623
     }
   },
   {
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 1272,
+      "2026-07-04": 1296,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 1272,
+      "2026-07-04": 1296,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -685,7 +685,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 1272,
+      "2026-07-04": 1296,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
