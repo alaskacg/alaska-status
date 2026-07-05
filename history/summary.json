@@ -292,16 +292,16 @@
     "url": "https://alaskaminingequipment.com",
     "icon": "https://icons.duckduckgo.com/ip3/alaskaminingequipment.com.ico",
     "slug": "alaska-mining-equipment",
-    "status": "down",
-    "uptime": "94.05%",
-    "uptimeDay": "50.88%",
-    "uptimeWeek": "61.89%",
-    "uptimeMonth": "83.49%",
-    "uptimeYear": "94.05%",
+    "status": "up",
+    "uptime": "94.03%",
+    "uptimeDay": "49.21%",
+    "uptimeWeek": "61.65%",
+    "uptimeMonth": "83.44%",
+    "uptimeYear": "94.03%",
     "time": 731,
-    "timeDay": 705,
-    "timeWeek": 724,
-    "timeMonth": 736,
+    "timeDay": 689,
+    "timeWeek": 720,
+    "timeMonth": 735,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2026-06-23": 423,
@@ -316,7 +316,7 @@
       "2026-07-02": 527,
       "2026-07-03": 527,
       "2026-07-04": 638,
-      "2026-07-05": 684
+      "2026-07-05": 708
     }
   },
   {
@@ -396,15 +396,15 @@
     "url": "https://anchoragechronicle.com",
     "icon": "https://icons.duckduckgo.com/ip3/anchoragechronicle.com.ico",
     "slug": "anchorage-chronicle",
-    "status": "down",
-    "uptime": "91.55%",
-    "uptimeDay": "55.70%",
-    "uptimeWeek": "50.78%",
-    "uptimeMonth": "76.56%",
-    "uptimeYear": "91.55%",
+    "status": "up",
+    "uptime": "91.53%",
+    "uptimeDay": "55.68%",
+    "uptimeWeek": "50.79%",
+    "uptimeMonth": "76.51%",
+    "uptimeYear": "91.53%",
     "time": 774,
-    "timeDay": 600,
-    "timeWeek": 744,
+    "timeDay": 602,
+    "timeWeek": 740,
     "timeMonth": 788,
     "timeYear": 774,
     "dailyMinutesDown": {
@@ -422,7 +422,7 @@
       "2026-07-02": 416,
       "2026-07-03": 939,
       "2026-07-04": 717,
-      "2026-07-05": 520
+      "2026-07-05": 544
     }
   },
   {
@@ -478,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 1271,
+      "2026-07-05": 1296,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 1271,
+      "2026-07-05": 1296,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -686,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 1271,
+      "2026-07-05": 1296,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
