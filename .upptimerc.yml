@@ -85,13 +85,15 @@ sites:
     url: https://alaskaguidelistings.com
 
   - name: Anchorage Listings
-    url: https://anchoragelistings.com
+    # 2026-07-07: anchoragelistings.com is owned by BuyDomains (not ours) - monitor the live GH Pages URL
+    url: https://alaskacg.github.io/anchorage-listings/
 
   - name: Alcan Listings
     url: https://alcanlistings.com
 
   - name: Prudhoe Listings
-    url: https://prudhoelistings.com
+    # 2026-07-07: prudhoelistings.com is unregistered - monitor the live GH Pages URL
+    url: https://alaskacg.github.io/prudhoe-listings/
 
   - name: Tongass Listings
     url: https://tongasslistings.com
