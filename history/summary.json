@@ -94,10 +94,10 @@
     "url": "https://kenaiborough.com",
     "icon": "https://icons.duckduckgo.com/ip3/kenaiborough.com.ico",
     "slug": "kenai-borough",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
@@ -105,7 +105,9 @@
     "timeWeek": 105,
     "timeMonth": 133,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 1
+    }
   },
   {
     "name": "Kenai Listings",
@@ -130,10 +132,10 @@
     "url": "https://kenaiautosales.com",
     "icon": "https://icons.duckduckgo.com/ip3/kenaiautosales.com.ico",
     "slug": "kenai-auto-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
@@ -141,17 +143,19 @@
     "timeWeek": 118,
     "timeMonth": 148,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 1
+    }
   },
   {
     "name": "Kenai Peninsula Rentals",
     "url": "https://kenaipeninsularentals.com",
     "icon": "https://icons.duckduckgo.com/ip3/kenaipeninsularentals.com.ico",
     "slug": "kenai-peninsula-rentals",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
@@ -159,17 +163,19 @@
     "timeWeek": 121,
     "timeMonth": 142,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 1
+    }
   },
   {
     "name": "Kenai Land Sales",
     "url": "https://kenailandsales.com",
     "icon": "https://icons.duckduckgo.com/ip3/kenailandsales.com.ico",
     "slug": "kenai-land-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
@@ -177,16 +183,18 @@
     "timeWeek": 107,
     "timeMonth": 124,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 1
+    }
   },
   {
     "name": "Kenai Home Sales",
     "url": "https://kenaihomesales.com",
     "icon": "https://icons.duckduckgo.com/ip3/kenaihomesales.com.ico",
     "slug": "kenai-home-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,16 +203,18 @@
     "timeWeek": 148,
     "timeMonth": 147,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 1
+    }
   },
   {
     "name": "Kenai Borough Realty",
     "url": "https://kenaiboroughrealty.com",
     "icon": "https://icons.duckduckgo.com/ip3/kenaiboroughrealty.com.ico",
     "slug": "kenai-borough-realty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +223,9 @@
     "timeWeek": 152,
     "timeMonth": 153,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-16": 0
+    }
   },
   {
     "name": "Alaska Consulting Group",
@@ -467,11 +479,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alaskacg.github.io.ico",
     "slug": "anchorage-listings",
     "status": "up",
-    "uptime": "31.54%",
+    "uptime": "31.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.54%",
+    "uptimeYear": "31.59%",
     "time": 114,
     "timeDay": 132,
     "timeWeek": 119,
@@ -573,11 +585,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alcanlistings.com.ico",
     "slug": "alcan-listings",
     "status": "up",
-    "uptime": "31.54%",
+    "uptime": "31.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.54%",
+    "uptimeYear": "31.59%",
     "time": 136,
     "timeDay": 140,
     "timeWeek": 118,
@@ -679,11 +691,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alaskacg.github.io.ico",
     "slug": "prudhoe-listings",
     "status": "up",
-    "uptime": "31.54%",
+    "uptime": "31.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.54%",
+    "uptimeYear": "31.59%",
     "time": 88,
     "timeDay": 108,
     "timeWeek": 68,
@@ -821,11 +833,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bblistings.com.ico",
     "slug": "bb-listings",
     "status": "up",
-    "uptime": "71.01%",
+    "uptime": "71.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.01%",
+    "uptimeYear": "71.03%",
     "time": 286,
     "timeDay": 438,
     "timeWeek": 454,
