@@ -6,28 +6,29 @@ sites:
   # 2026-10-01 (Neo): monitor ONLY domains we still own that are serving a site.
   # Ownership record: ~/aether_data/portfolio/domain-ownership.json (bin/domain-ownership on the ops box).
   # Removed — re-add a block here when a domain is repurchased or brought back:
-  #   Alaska Guide Search: https://akguidesearch.com  — lapsed (expired 2026-08-19)
-  #   Alaska Listings: https://aklistings.com  — owned, not serving (http-only 410)
-  #   Alaskas Store: https://alaskasstore.com  — lapsed (expired 2026-08-19)
-  #   Kenai Borough: https://kenaiborough.com  — lapsed (expired 2026-08-11)
-  #   Kenai Listings: https://kenailistings.com  — lapsed (expired 2026-08-12)
-  #   Kenai Auto Sales: https://kenaiautosales.com  — lapsed (expired 2026-08-11)
-  #   Kenai Peninsula Rentals: https://kenaipeninsularentals.com  — lapsed (expired 2026-08-11)
-  #   Kenai Land Sales: https://kenailandsales.com  — lapsed (expired 2026-08-11)
-  #   Kenai Home Sales: https://kenaihomesales.com  — lapsed (expired 2026-08-11)
-  #   Kenai Borough Realty: https://kenaiboroughrealty.com  — lapsed (expired 2026-08-11)
-  #   The Alaska Foundation: https://thealaskafoundation.com  — lapsed (expired 2026-08-13)
-  #   Alaska Domains: https://alaskadomains.com  — owned, not serving (http-only 410)
-  #   Alaska Drone Survey: https://alaskadronesurvey.com  — lapsed (expired 2026-08-18)
-  #   Alaska Mining Equipment: https://alaskaminingequipment.com  — lapsed (expired 2026-08-18)
-  #   Alaska News Corporation: https://alaskanewscorporation.com  — lapsed (expired 2026-08-12)
-  #   Alaska Gold News: https://alaskagoldnews.com  — lapsed (expired 2026-08-18)
-  #   Alaska Fires: https://alaskafires.com  — lapsed (expired 2026-08-19)
-  #   Kenai News: https://kenainews.com  — lapsed (expired 2026-08-12)
-  #   Alaskan Boats: https://alaskanboats.com  — lapsed (expired 2026-08-18)
-  #   Alcan Listings: https://alcanlistings.com  — owned, not serving (http-only 410)
-  #   Tongass Listings: https://tongasslistings.com  — owned, not serving (http-only 410)
-  #   Chugach Listings: https://chugachlistings.com  — lapsed (expired 2026-08-12)
+  #   Alaska Guide Search: https://akguidesearch.com  — lapsed — in redemption (expired 2026-08-19)
+  #   Alaska Listings: https://aklistings.com  — expired 2026-09-02 at WordPress.com, still renewable
+  #   Alaskas Store: https://alaskasstore.com  — lapsed — in redemption (expired 2026-08-19)
+  #   Kenai Borough: https://kenaiborough.com  — lapsed — in redemption (expired 2026-08-11)
+  #   Kenai Listings: https://kenailistings.com  — lapsed — in redemption (expired 2026-08-12)
+  #   Kenai Auto Sales: https://kenaiautosales.com  — lapsed — in redemption (expired 2026-08-11)
+  #   Kenai Peninsula Rentals: https://kenaipeninsularentals.com  — lapsed — in redemption (expired 2026-08-11)
+  #   Kenai Land Sales: https://kenailandsales.com  — lapsed — in redemption (expired 2026-08-11)
+  #   Kenai Home Sales: https://kenaihomesales.com  — lapsed — in redemption (expired 2026-08-11)
+  #   Kenai Borough Realty: https://kenaiboroughrealty.com  — lapsed — in redemption (expired 2026-08-11)
+  #   The Alaska Foundation: https://thealaskafoundation.com  — lapsed — in redemption (expired 2026-08-13)
+  #   Alaska Domains: https://alaskadomains.com  — expired 2026-08-25 at WordPress.com, still renewable
+  #   Alaska Drone Survey: https://alaskadronesurvey.com  — lapsed — in redemption (expired 2026-08-18)
+  #   Alaska Mining Equipment: https://alaskaminingequipment.com  — lapsed — in redemption (expired 2026-08-18)
+  #   Alaska News Corporation: https://alaskanewscorporation.com  — lapsed — in redemption (expired 2026-08-12)
+  #   Alaska Gold News: https://alaskagoldnews.com  — lapsed — in redemption (expired 2026-08-18)
+  #   Alaska Fires: https://alaskafires.com  — lapsed — in redemption (expired 2026-08-19)
+  #   Kenai News: https://kenainews.com  — lapsed — in redemption (expired 2026-08-12)
+  #   Alaskan Boats: https://alaskanboats.com  — lapsed — in redemption (expired 2026-08-18)
+  #   Alcan Listings: https://alcanlistings.com  — expired 2026-09-02 at WordPress.com, still renewable
+  #   Tongass Listings: https://tongasslistings.com  — expired 2026-09-02 at WordPress.com, still renewable
+  #   Chugach Listings: https://chugachlistings.com  — lapsed — in redemption (expired 2026-08-12)
+  #   Alaska Guide Listings: https://alaskaguidelistings.com  — expired 2026-09-02 at WordPress.com, still renewable
 
   - name: Alaska Metals Exchange
     url: https://alaskametalsexchange.com
@@ -42,9 +43,6 @@ sites:
 
   - name: Anchorage Chronicle
     url: https://anchoragechronicle.com
-
-  - name: Alaska Guide Listings
-    url: https://alaskaguidelistings.com
 
   - name: Anchorage Listings
     # 2026-07-07: anchoragelistings.com is owned by BuyDomains (not ours) - monitor the live GH Pages URL
