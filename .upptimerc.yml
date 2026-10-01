@@ -3,9 +3,17 @@ owner: alaskacg
 repo: alaska-status
 
 sites:
-  # 2026-10-01 (Neo): monitor ONLY domains we still own that are serving a site.
-  # Ownership record: ~/aether_data/portfolio/domain-ownership.json (bin/domain-ownership on the ops box).
-  # Removed — re-add a block here when a domain is repurchased or brought back:
+  # 2026-10-01 (Neo): monitor ONLY the primary public pages being updated now —
+  # aetherawareness.com and researchtheword.com. Watch list + ownership record on the ops box:
+  # ~/aether_data/portfolio/domain-ownership.json (bin/domain-ownership watch add <domain>).
+  # Not monitored — re-add a block below to bring one back:
+  #   Alaska Metals Exchange: https://alaskametalsexchange.com  — owned, not on the watch list (Neo 2026-10-01)
+  #   Juneau Air: https://juneauair.com  — owned, not on the watch list (Neo 2026-10-01)
+  #   Alaska Consulting Group: https://alaskaconsultinggroup.com  — owned, not on the watch list (Neo 2026-10-01)
+  #   Anchorage Chronicle: https://anchoragechronicle.com  — owned, not on the watch list (Neo 2026-10-01)
+  #   Anchorage Listings: https://alaskacg.github.io/anchorage-listings/  — not on the watch list (Neo 2026-10-01)
+  #   Prudhoe Listings: https://alaskacg.github.io/prudhoe-listings/  — not on the watch list (Neo 2026-10-01)
+  #   BB Listings: https://bblistings.com  — owned, not on the watch list (Neo 2026-10-01)
   #   Alaska Guide Search: https://akguidesearch.com  — lapsed — in redemption (expired 2026-08-19)
   #   Alaska Listings: https://aklistings.com  — expired 2026-09-02 at WordPress.com, still renewable
   #   Alaskas Store: https://alaskasstore.com  — lapsed — in redemption (expired 2026-08-19)
@@ -30,30 +38,11 @@ sites:
   #   Chugach Listings: https://chugachlistings.com  — lapsed — in redemption (expired 2026-08-12)
   #   Alaska Guide Listings: https://alaskaguidelistings.com  — expired 2026-09-02 at WordPress.com, still renewable
 
-  - name: Alaska Metals Exchange
-    url: https://alaskametalsexchange.com
-    icon: https://alaskametalsexchange.com/favicon.ico
+  - name: Aether Awareness
+    url: https://aetherawareness.com
 
-  - name: Juneau Air
-    url: https://juneauair.com
-    icon: https://juneauair.com/favicon.ico
-
-  - name: Alaska Consulting Group
-    url: https://alaskaconsultinggroup.com
-
-  - name: Anchorage Chronicle
-    url: https://anchoragechronicle.com
-
-  - name: Anchorage Listings
-    # 2026-07-07: anchoragelistings.com is owned by BuyDomains (not ours) - monitor the live GH Pages URL
-    url: https://alaskacg.github.io/anchorage-listings/
-
-  - name: Prudhoe Listings
-    # 2026-07-07: prudhoelistings.com is unregistered - monitor the live GH Pages URL
-    url: https://alaskacg.github.io/prudhoe-listings/
-
-  - name: BB Listings
-    url: https://bblistings.com
+  - name: Research The Word
+    url: https://researchtheword.com
 
 assignees:
   - alaskacg
