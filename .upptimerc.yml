@@ -3,83 +3,45 @@ owner: alaskacg
 repo: alaska-status
 
 sites:
-  # === TOP SaaS SITES (payment-enabled, CRITICAL) ===
+  # 2026-10-01 (Neo): monitor ONLY domains we still own that are serving a site.
+  # Ownership record: ~/aether_data/portfolio/domain-ownership.json (bin/domain-ownership on the ops box).
+  # Removed — re-add a block here when a domain is repurchased or brought back:
+  #   Alaska Guide Search: https://akguidesearch.com  — lapsed (expired 2026-08-19)
+  #   Alaska Listings: https://aklistings.com  — owned, not serving (http-only 410)
+  #   Alaskas Store: https://alaskasstore.com  — lapsed (expired 2026-08-19)
+  #   Kenai Borough: https://kenaiborough.com  — lapsed (expired 2026-08-11)
+  #   Kenai Listings: https://kenailistings.com  — lapsed (expired 2026-08-12)
+  #   Kenai Auto Sales: https://kenaiautosales.com  — lapsed (expired 2026-08-11)
+  #   Kenai Peninsula Rentals: https://kenaipeninsularentals.com  — lapsed (expired 2026-08-11)
+  #   Kenai Land Sales: https://kenailandsales.com  — lapsed (expired 2026-08-11)
+  #   Kenai Home Sales: https://kenaihomesales.com  — lapsed (expired 2026-08-11)
+  #   Kenai Borough Realty: https://kenaiboroughrealty.com  — lapsed (expired 2026-08-11)
+  #   The Alaska Foundation: https://thealaskafoundation.com  — lapsed (expired 2026-08-13)
+  #   Alaska Domains: https://alaskadomains.com  — owned, not serving (http-only 410)
+  #   Alaska Drone Survey: https://alaskadronesurvey.com  — lapsed (expired 2026-08-18)
+  #   Alaska Mining Equipment: https://alaskaminingequipment.com  — lapsed (expired 2026-08-18)
+  #   Alaska News Corporation: https://alaskanewscorporation.com  — lapsed (expired 2026-08-12)
+  #   Alaska Gold News: https://alaskagoldnews.com  — lapsed (expired 2026-08-18)
+  #   Alaska Fires: https://alaskafires.com  — lapsed (expired 2026-08-19)
+  #   Kenai News: https://kenainews.com  — lapsed (expired 2026-08-12)
+  #   Alaskan Boats: https://alaskanboats.com  — lapsed (expired 2026-08-18)
+  #   Alcan Listings: https://alcanlistings.com  — owned, not serving (http-only 410)
+  #   Tongass Listings: https://tongasslistings.com  — owned, not serving (http-only 410)
+  #   Chugach Listings: https://chugachlistings.com  — lapsed (expired 2026-08-12)
+
   - name: Alaska Metals Exchange
     url: https://alaskametalsexchange.com
     icon: https://alaskametalsexchange.com/favicon.ico
-
-  - name: Alaska Guide Search
-    url: https://akguidesearch.com
-    icon: https://akguidesearch.com/favicon.ico
 
   - name: Juneau Air
     url: https://juneauair.com
     icon: https://juneauair.com/favicon.ico
 
-  - name: Alaska Listings
-    url: https://aklistings.com
-    icon: https://aklistings.com/favicon.ico
-
-  - name: Alaskas Store
-    url: https://alaskasstore.com
-
-  # === KENAI PACKAGE ===
-  - name: Kenai Borough
-    url: https://kenaiborough.com
-
-  - name: Kenai Listings
-    url: https://kenailistings.com
-
-  - name: Kenai Auto Sales
-    url: https://kenaiautosales.com
-
-  - name: Kenai Peninsula Rentals
-    url: https://kenaipeninsularentals.com
-
-  - name: Kenai Land Sales
-    url: https://kenailandsales.com
-
-  - name: Kenai Home Sales
-    url: https://kenaihomesales.com
-
-  - name: Kenai Borough Realty
-    url: https://kenaiboroughrealty.com
-
-  # === CORE BUSINESS ===
   - name: Alaska Consulting Group
     url: https://alaskaconsultinggroup.com
 
-  - name: The Alaska Foundation
-    url: https://thealaskafoundation.com
-
-  - name: Alaska Domains
-    url: https://alaskadomains.com
-
-  - name: Alaska Drone Survey
-    url: https://alaskadronesurvey.com
-
-  - name: Alaska Mining Equipment
-    url: https://alaskaminingequipment.com
-
-  # === NEWS & MEDIA ===
-  - name: Alaska News Corporation
-    url: https://alaskanewscorporation.com
-
-  - name: Alaska Gold News
-    url: https://alaskagoldnews.com
-
-  - name: Alaska Fires
-    url: https://alaskafires.com
-
-  - name: Kenai News
-    url: https://kenainews.com
-
   - name: Anchorage Chronicle
     url: https://anchoragechronicle.com
-
-  # === LISTINGS NETWORK ===
-  - name: Alaskan Boats
-    url: https://alaskanboats.com
 
   - name: Alaska Guide Listings
     url: https://alaskaguidelistings.com
@@ -88,18 +50,9 @@ sites:
     # 2026-07-07: anchoragelistings.com is owned by BuyDomains (not ours) - monitor the live GH Pages URL
     url: https://alaskacg.github.io/anchorage-listings/
 
-  - name: Alcan Listings
-    url: https://alcanlistings.com
-
   - name: Prudhoe Listings
     # 2026-07-07: prudhoelistings.com is unregistered - monitor the live GH Pages URL
     url: https://alaskacg.github.io/prudhoe-listings/
-
-  - name: Tongass Listings
-    url: https://tongasslistings.com
-
-  - name: Chugach Listings
-    url: https://chugachlistings.com
 
   - name: BB Listings
     url: https://bblistings.com
