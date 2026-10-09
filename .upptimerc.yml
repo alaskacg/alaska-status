@@ -49,9 +49,9 @@ assignees:
 
 status-website:
   cname: status.alaskaconsultinggroup.com
-  name: Alaska Portfolio Status
-  introTitle: Alaska Business Network — System Status
-  introMessage: Real-time uptime monitoring for all Alaska portfolio sites. Powered by GitHub Actions.
+  name: Aether Awareness & Research The Word Status
+  introTitle: Aether Awareness & Research The Word — System Status
+  introMessage: Uptime monitoring for aetherawareness.com and researchtheword.com. Powered by GitHub Actions.
   navbar:
     - title: Status
       href: /
